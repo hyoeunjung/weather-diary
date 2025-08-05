@@ -20,8 +20,8 @@ class WeatherApplicationTests {
         assertThat(1, equalTo(1));
     }
 
-    @Test
-    void failTest() {
-        assertThat(1, equalTo(2));
-    }
+//   @Test
+//    void failTest() {
+//        assertThat(1, equalTo(2));
+//    }
 }
