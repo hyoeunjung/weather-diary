@@ -1,4 +1,5 @@
 Weather Diary (날씨 일기) 프로젝트
+
 📖 프로젝트 소개
 외부 OpenWeatherMap API를 활용해 날씨 데이터를 주기적으로 받아 저장합니다.
 
